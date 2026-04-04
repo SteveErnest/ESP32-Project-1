@@ -1,4 +1,4 @@
-If you like this project, consider starring on GitHub! ⭐
+//If you like this project, consider starring on GitHub! ⭐
 
 #include <ESP32Servo.h> 
 
